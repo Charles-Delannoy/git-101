@@ -1,6 +1,7 @@
 body {
 	margin: O;
 	font-family: helvetica;
+	background-color: red;
 }
 
 #logo {
@@ -8,6 +9,8 @@ body {
 }
 
 #container {
+	font-weight: 100;
+	color: white;
 	display: flex;
 	align-items: center;
 	justify-content: center;
